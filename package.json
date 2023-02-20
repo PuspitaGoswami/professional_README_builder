@@ -1,0 +1,22 @@
+{
+  "name": "professional_readme_builder",
+  "version": "1.0.0",
+  "description": "A readme builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PuspitaGoswami/professional_README_builder.git"
+  },
+  "author": "Puspita",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/PuspitaGoswami/professional_README_builder/issues"
+  },
+  "homepage": "https://github.com/PuspitaGoswami/professional_README_builder#readme"
+}
