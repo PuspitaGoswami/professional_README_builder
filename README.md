@@ -27,8 +27,8 @@
   N/A
   
   ## Questions
-  puspitagoswami14@gmail.com
-  https://github.com/PuspitaGoswami
+  If you have any questions about the project, please contact me at puspitagoswami14@gmail.com. You can also find more of my work at https://github.com/PuspitaGoswami.
+  
   
   ## Test
   N/A

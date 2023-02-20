@@ -23,6 +23,7 @@ const promptUser = () =>
       name: "installation",
       message: "How can it be installed?",
     },
+
     {
       type: "input",
       name: "usage",
@@ -40,7 +41,7 @@ const promptUser = () =>
     {
       type: "input",
       name: "contributors",
-      message: "Contributors?",
+      message: "Contributing?",
     },
     {
       type: "input",

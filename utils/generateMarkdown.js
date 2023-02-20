@@ -27,7 +27,7 @@ function showBadge(license) {
   ## Description
   ${answers.description}
   
-  ## usage
+  ## Usage
   ${answers.usage}
   
   ## License
@@ -40,8 +40,9 @@ function showBadge(license) {
   ${answers.contributors}
   
   ## Questions
-  ${answers.email}
-  ${answers.github}
+  If you have any questions about the project, please contact me at ${answers.email}. You can also find more of my work at ${answers.github}
+  
+  
   
   ## Test
   ${answers.test}
