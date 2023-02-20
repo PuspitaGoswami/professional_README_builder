@@ -92,44 +92,44 @@ const promptUser = () =>
 // }
 // line 100 below is the expected place for the license badge to appear
 
-// const generateREADME = (answers) => {
-//   console.log(answers);
-//   //Below is the mark up language for the readme file with appended template literals
-//   return `# ${answers.title}
+const generateREADME = (answers) => {
+  console.log(answers);
+  //Below is the mark up language for the readme file with appended template literals
+  return `# ${answers.title}
 
-// ${showBadge(answers.licenses)}
+${showBadge(answers.licenses)}
 
-// ## Table of Content
-// - [project description](#description)
-// - [usage](#usage)
-// - [project License](#license)
-// - [Contibuting](#contibuting)
-// - [Test](#test)
-// - [Questions](#questions)
-// - [Installations](#installations)
+## Table of Content
+- [project description](#description)
+- [usage](#usage)
+- [project License](#license)
+- [Contibuting](#contibuting)
+- [Test](#test)
+- [Questions](#questions)
+- [Installations](#installations)
 
-// ## Description
-// ${answers.description}
+## Description
+${answers.description}
 
-// ## usage
-// ${answers.usage}
+## usage
+${answers.usage}
 
-// ## License
-// ${answers.license}
+## License
+${answers.license}
 
-// ## Installations
-// ${answers.installation}
+## Installations
+${answers.installation}
 
-// ## Contributing
-// ${answers.contributors}
+## Contributing
+${answers.contributors}
 
-// ## Questions
-// ${answers.email}
-// ${answers.github}
+## Questions
+${answers.email}
+${answers.github}
 
-// ## Test
-// ${answers.test}`;
-// };
+## Test
+${answers.test}`;
+};
 //End of markdown language with template literals form
 
 // function that will handle prompting and generation of the read me file
