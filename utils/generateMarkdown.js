@@ -42,8 +42,6 @@ function showBadge(license) {
   ## Questions
   If you have any questions about the project, please contact me at ${answers.email}. You can also find more of my work at ${answers.github}
   
-  
-  
   ## Test
   ${answers.test}
 

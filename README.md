@@ -3,9 +3,9 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensources.org/MIT)
   
   ## Table of Content
-  - [project description](#description)
-  - [usage](#usage)
-  - [project License](#license)
+  - [Project description](#description)
+  - [Usage](#usage)
+  - [Project License](#license)
   - [Contibuting](#contibuting)
   - [Test](#test)
   - [Questions](#questions)
@@ -14,7 +14,7 @@
   ## Description
   This project is a command-line application that generates a README.md file for a project based on user input. The application is built using JavaScript and Node.js.
   
-  ## usage
+  ## Usage
   When you run the application, you will be prompted to answer a series of questions about your project. These questions will include:
   
   ## License
@@ -32,4 +32,7 @@
   
   ## Test
   N/A
+
+  ![Alt text](utils/images/ss1.JPG)
+![Alt text](utils/images/ss2.JPG)
 
